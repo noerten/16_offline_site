@@ -1,6 +1,10 @@
 # New Site Template
 
-[TODO. There will be project description]
+[Bootstrap template](http://getbootstrap.com/examples/jumbotron/) with saved to local folders dependencies.
+
+
+## How To Use
+Simply run index.html
 
 # Project Goals
 
